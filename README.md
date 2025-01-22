@@ -1,4 +1,4 @@
-# OkAnkiDecks
+# OKAnkiDecks
 
 Collection of my GCSE Anki Decks
 
