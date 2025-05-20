@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: home
 title: Home
+nav_order: 1
 ---
 
-# Welcome to My GCSE Anki Decks
+# GCSE Anki Decks
 
-This site contains guides, download links, and tips for using my shared Anki decks.
+Welcome to the official documentation site.
 
-## 📚 Available Decks
-- [Biology Paper 1 Deck](link-to-ankiweb)
-
-## 📖 How to Use
-Instructions for importing, using, and customizing decks.
+Use the sidebar to navigate.
 
