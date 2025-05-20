@@ -1,6 +1,6 @@
 ---
 title: Biology
-parent: Home
+parent: Guides
 nav_order: 1
 ---
 
