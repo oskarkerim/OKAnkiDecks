@@ -4,6 +4,6 @@ parent: Guides
 nav_order: 1
 ---
 
-# Biology Deck Guide
+# Biology Guide
 
 This deck covers topics from cell biology to bioenergetics.
