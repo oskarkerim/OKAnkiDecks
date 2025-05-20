@@ -3,5 +3,7 @@ description: Study guides, flashcards, and resources
 remote_theme: just-the-docs/just-the-docs
 # Optional tweaks
 color_scheme: dark
-url: "https://oskarkerimbaev.github.io/OKAnkiDecks"
-repository: oskarkerimbaev/OKAnkiDecks
+aux_links:
+  "OKAnkiDecks on GitHub":
+    - "//github.com/oskarkerimbaev/OKAnkiDecks/"
+search_enabled: false
