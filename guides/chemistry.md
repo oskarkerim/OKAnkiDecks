@@ -1,6 +1,6 @@
 ---
 title: Chemistry
-parent: Home
+parent: Guides
 nav_order: 2
 ---
 
