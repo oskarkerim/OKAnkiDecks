@@ -1,7 +1,6 @@
 title: OK Anki Decks
 description: Study guides, flashcards, and resources
-theme: just-the-docs
-
+remote_theme: just-the-docs/just-the-docs
 # Optional tweaks
 color_scheme: dark
 url: "https://oskarkerimbaev.github.io/OKAnkiDecks"
