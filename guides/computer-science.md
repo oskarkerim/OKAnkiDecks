@@ -27,4 +27,5 @@ The content listed below is **omitted** from the flashcards and must be learnt s
 - **2.4** – Boolean logic is not suitable for flashcard-based learning.  
   Learn and practice it [separately](https://www.youtube.com/watch?v=jN9WtjyjXf4).
 
-{: .warning } Practical understanding and hands-on coding are essential. Flashcards are only one part of your revision strategy.
+{: .warning }
+Practical understanding and hands-on coding are essential. Flashcards are only one part of your revision strategy.
