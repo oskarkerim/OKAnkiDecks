@@ -15,4 +15,5 @@ These are separate decks to support different options:
 - [History Paper 2: Superpower Relations and the Cold War](/)
 - [History Paper 3: Weimar and Nazi Germany](/)
 
-{: .warning } Do not rely purely on flashcards (these have almost exhaustive information for top marks). Practicing exam technique and writing good analysis is just as important as factual evidence!
+{: .warning }
+Do not rely purely on flashcards (these have almost exhaustive information for top marks). Practicing exam technique and writing good analysis is just as important as factual evidence!
