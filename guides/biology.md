@@ -6,7 +6,7 @@ nav_order: 1
 
 # Biology Guide
 
-  [Shared Deck](/){: .btn }
+Link to [shared deck](/)
 
 ## Search examples
 
