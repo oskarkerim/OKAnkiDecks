@@ -5,9 +5,8 @@ nav_order: 2
 ---
 
 # Chemistry Guide
----
-
-[Shared Deck](/){: .btn }
+  
+Link to [shared deck](/)
 
 ## Search examples
 
@@ -28,6 +27,9 @@ To search for a specific specification reference (it is easiest to select the ta
 ```
 tag:Chemistry::Paper\_1::Topic\_4::Extracting\_Metals\_and\_Equilibria::Obtaining\_and\_Using\_Metals::4.01
 ```
+
+
+---
 
 ## Notes on Content in Flashcards
 
@@ -66,5 +68,6 @@ The following specification points are **not** explicitly covered in the flashca
 - **9.26** – [Drawing](https://www.bbc.co.uk/bitesize/guides/z2jndxs/revision/1) structures of alcohols
 - **9.38** – Comparison-based questions
 
-> ⚠️ Double-check the official specification and use your textbook or revision guide to cover these points if you're aiming for full syllabus coverage.
+{: .warning } Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
+
 
