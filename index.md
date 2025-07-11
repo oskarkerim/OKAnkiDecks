@@ -9,6 +9,3 @@ nav_order: 1
 Welcome to the official documentation site for [my decks](/) and guides.
 
 Use the sidebar to navigate.
-
-<---
-
