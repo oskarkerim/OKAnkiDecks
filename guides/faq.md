@@ -4,7 +4,7 @@
 
 **A**: [Anki Docs](https://docs.ankiweb.net/editing.html#using-tags) advises using tags rather than sub-decks. Tags are also much more appropriate for sciences, where topics like `Topic_1` can appear in both `Paper_1` and `Paper_2`.
 
-See [Tips](/) section for how to use filtered decks with tags.
+See the subject-specific sections for examples of tag-based filtered search queries.
 
 ---
 
@@ -32,12 +32,6 @@ Tag all of your flashcards based on the specification. See examples in my shared
 ### Q: How do I import the deck properly into Anki?
 
 **A**: See the [Importing](https://oskarkerimbaev.github.io/OKAnkiDecks/guides/importing.html).
-
----
-
-### Q: How do I study by topic or paper using tags?
-
-**A**: See the subject-specific sections for examples of tag-based filtered search queries.
 
 ---
 
