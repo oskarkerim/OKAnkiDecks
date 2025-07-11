@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 {: .warning }
-Do not purely rely on flashcards for revision — use practice papers strategically together with Anki.
+Do not purely rely on flashcards for revision: use practice papers strategically together with Anki.
 
 ---
 
@@ -16,8 +16,8 @@ Do not purely rely on flashcards for revision — use practice papers strategica
 - Set the default **review limit** to `9999` and **new limit** to `20`
   - Adjust the *new card limit* as necessary based on workload
 - Recommended add-ons:
-  - [Pass/Fail extension](https://ankiweb.net/shared/info/876946123) – reasoning explained below
-  - [Review Hotmouse extension](https://ankiweb.net/shared/info/1928346827) – helps streamline card review
+  - [Pass/Fail extension](https://ankiweb.net/shared/info/876946123) - reasoning explained below
+  - [Review Hotmouse extension](https://ankiweb.net/shared/info/1928346827) - helps streamline card review
 
 ---
 
@@ -31,7 +31,7 @@ Do not purely rely on flashcards for revision — use practice papers strategica
 
 - **ALWAYS** complete your **daily reviews**:
   - Overdue cards pile up faster than expected
-  - Avoid doing 300+ in one day — I’ve had to clear over 1000 in a day and it was miserable
+  - Avoid doing 300+ in one day: At one point I’ve had to clear over 1000 in a day and it wasn't pretty
   - If you miss a day, aim to clear all overdue cards ASAP
 
 {: .highlight }
