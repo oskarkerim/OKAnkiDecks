@@ -35,6 +35,14 @@ Tag all of your flashcards based on the specification. See examples in my shared
 
 ---
 
+### Q: How do I study by topic or paper using tags?
+
+**A**: See the subject-specific sections for examples of tag-based filtered search queries.
+
+Also consult the [Anki Docs](https://docs.ankiweb.net/searching.html). 
+
+---
+
 ### Q: What if a card has a typo or error?
 
 **A**: Please open a [new issue](https://github.com/oskarkerimbaev/OKAnkiDecks/issues) on GitHub. Clear reports help me fix things faster.
