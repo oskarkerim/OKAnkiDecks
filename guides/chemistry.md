@@ -68,6 +68,5 @@ The following specification points are **not** explicitly covered in the flashca
 - **9.26** – [Drawing](https://www.bbc.co.uk/bitesize/guides/z2jndxs/revision/1) structures of alcohols
 - **9.38** – Comparison-based questions
 
-{: .warning } Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
-
-
+{: .warning }
+Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
