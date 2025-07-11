@@ -1,7 +1,7 @@
 ---
 name: Card Issue
 about: Tell me about any issues you find with cards.
-title: ''
+title: '[Card Issue]'
 labels: ''
 assignees: ''
 
