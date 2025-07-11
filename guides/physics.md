@@ -91,4 +91,5 @@ The following specification points are **not** explicitly covered in the flashca
 - **10.28** – Already covered in 8.12
 - **10.29** – Already covered in 8.13
 
-{: .warning } Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
+{: .warning }
+Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
