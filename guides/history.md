@@ -6,4 +6,4 @@ nav_order: 1
 
 # History Guide
 
-This deck covers History
+These are separate decks to support different options.
