@@ -57,7 +57,5 @@ The following specification points are **not** explicitly covered in the flashca
 #### Topic 7
 - **7.04** – Hormonal roles are covered under earlier points in Topic 7
 
-{: .warning } Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
-
-
-
+{: .warning }
+Use a printed specification and textbook as a checklist to ensure full topic coverage if aiming for top marks.
