@@ -6,7 +6,7 @@ nav_order: 1
 
 # Computer Science Guide
   
-Link to [shared deck](/)
+Link to [shared deck](https://ankiweb.net/shared/info/1942724769)
 
 ## Notes on Content in Flashcards
 
