@@ -6,7 +6,7 @@ nav_order: 1
 
 # Biology Guide
   
-Link to [shared deck](/)
+Link to [shared deck](https://ankiweb.net/shared/info/617678765)
 
 ## Search examples
 
