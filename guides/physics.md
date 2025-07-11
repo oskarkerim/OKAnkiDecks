@@ -6,7 +6,7 @@ nav_order: 1
 
 # Physics Guide
   
-Link to [shared deck](/)
+Link to [shared deck](https://ankiweb.net/shared/info/922180518)
 
 ## Search examples
 
