@@ -5,6 +5,7 @@ nav_order: 2
 ---
 
 # Chemistry Guide
+---
 
 [Shared Deck](/){: .btn }
 
