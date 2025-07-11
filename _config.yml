@@ -9,7 +9,7 @@ aux_links:
 search_enabled: false
 callouts:
   warning:
-    title: Disclaimer
+    title: Important
     color: red
 enable_copy_code_button: true
 
