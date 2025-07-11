@@ -7,3 +7,8 @@ aux_links:
   "OKAnkiDecks on GitHub":
     - "//github.com/oskarkerimbaev/OKAnkiDecks/"
 search_enabled: false
+callouts:
+  warning:
+    title: Disclaimer
+    color: red
+
