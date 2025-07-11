@@ -6,7 +6,7 @@ nav_order: 2
 
 # Chemistry Guide
   
-Link to [shared deck](/)
+Link to [shared deck](https://ankiweb.net/shared/info/488737601)
 
 ## Search examples
 
