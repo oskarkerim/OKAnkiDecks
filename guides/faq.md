@@ -25,13 +25,13 @@ Tag all of your flashcards based on the specification. See examples in my shared
 
 ### Q: Are the decks enough on their own to pass or get a top grade?
 
-**A**: NO. See the [General Studying](https://oskarkerimbaev.github.io/OKAnkiDecks/guides/general-studying.html) disclaimer: use papers and active recall strategically alongside flashcards.
+**A**: NO. See the [General Studying](https://oskarkerim.github.io/OKAnkiDecks/guides/general-studying.html) disclaimer: use papers and active recall strategically alongside flashcards.
 
 ---
 
 ### Q: How do I import the deck properly into Anki?
 
-**A**: See the [Importing](https://oskarkerimbaev.github.io/OKAnkiDecks/guides/importing.html).
+**A**: See the [Importing](https://oskarkerim.github.io/OKAnkiDecks/guides/importing.html).
 
 ---
 
@@ -45,4 +45,4 @@ Also consult the [Anki Docs](https://docs.ankiweb.net/searching.html).
 
 ### Q: What if a card has a typo or error?
 
-**A**: Please open a [new issue](https://github.com/oskarkerimbaev/OKAnkiDecks/issues) on GitHub. Clear reports help me fix things faster.
+**A**: Please open a [new issue](https://github.com/oskarkerim/OKAnkiDecks/issues) on GitHub. Clear reports help me fix things faster.
