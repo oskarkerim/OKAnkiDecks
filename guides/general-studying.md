@@ -65,7 +65,7 @@ Do not purely rely on flashcards for revision: use practice papers strategically
 2. Check understanding using practice questions
 3. Move to flashcards:
    - *(Most optimal)* Make your own flashcards from a revision guide or textbook  
-     (See [FAQ guide](https://oskarkerimbaev.github.io/OKAnkiDecks/guides/faq.html#q-how-do-i-make-my-own-flashcards-if-i-dont-study-the-same-subjects) for how to structure these)
+     (See [FAQ guide](https://oskarkerim.github.io/OKAnkiDecks/guides/faq.html#q-how-do-i-make-my-own-flashcards-if-i-dont-study-the-same-subjects) for how to structure these)
    - Or unsuspend specific flashcards from pre-made decks  
      (Use spec reference tags to filter them)
 4. Aim to go through all relevant new flashcards the **same day** you learn the material
