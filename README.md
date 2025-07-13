@@ -2,7 +2,7 @@
 
 Collection of my GCSE Anki Decks
 
-For guides on these and more info please visit [here](https://oskarkerimbaev.github.io/OKAnkiDecks/)
+For guides on these and more info please visit [here](https://oskarkerim.github.io/OKAnkiDecks/)
 
 ## License
 
